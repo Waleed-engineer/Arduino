@@ -2,6 +2,7 @@
 
 Arduino Circuit Diagram
 ![Arduino Circuit Diagram](https://github.com/Waleed-engineer/Arduino/blob/main/PROJECTS/TrashFolder/image.png?raw=true)
+(you can try it in Wokwi): https://wokwi.com/projects/480497538766468097
 
 ## How it Works
 
