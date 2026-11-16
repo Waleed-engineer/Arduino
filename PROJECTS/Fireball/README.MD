@@ -1,7 +1,7 @@
 # LED Visualizer/Controller
 
 Arduino Circuit Diagram
-![Arduino Circuit Diagram](PROJECTS/TrashFolder/image.png)
+![Arduino Circuit Diagram](TrashFolder/image.png)
 
 ## How it Works
 
