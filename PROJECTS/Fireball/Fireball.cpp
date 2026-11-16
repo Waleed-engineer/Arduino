@@ -30,6 +30,7 @@ void setup() {
   }
 
   digitalWrite(LedPins[3], HIGH);
+  Serial.println("Press the button 1 to start)"
 
   while (BtnIsPressed(BtnPins[0]) == 0);
 
