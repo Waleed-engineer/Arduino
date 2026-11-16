@@ -1,8 +1,8 @@
+#1 LED Visualizer/Controller
+
+Arduino Circuit Diagram
 ![Arduino Circuit Diagram](Arduino/TrashFolder/image.png)
-
-#1LED Visualizer/Controller using a Rotary Encoder and Buttons
-
-#3How it Works
+#3 How it Works
 
 Inputs
 I used a rotary encoder (PinCLK/PinDT) to change the animation speed via the EnIndex1 array. There are three buttons: one to start the system, one to flip the LED direction, and one to trigger the "Fireshow" mode. I also added a potentiometer on A5 to handle the brightness.
